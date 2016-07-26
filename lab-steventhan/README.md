@@ -1,4 +1,5 @@
 ## CRUD api for personal portfolio projects
+AppError constructor is not used, neither is `debug` module. I do not recall we were taught about these in class, used `body-parser` as middleware, still need to find out how to catch error when syntactically invalid json is posted.
 ## Usage:
   * Navigate to folder `lab-steventhan`
   * Run `node server` to start server
